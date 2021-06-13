@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T12:26:04.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4469.4 Safari/537.36" version="14.7.7" etag="_ki9GwFItspihHOLbQr-" type="github"><diagram id="XqLjXXL4qzrXO5lD5Eyx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-13T14:30:01.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4469.4 Safari/537.36" etag="_B28Pb5Gsftg8fqzKKlE" version="14.7.7" type="github">
+  <diagram id="XqLjXXL4qzrXO5lD5Eyx" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qpySperJO2lBBYieVJm1-1" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=150;tabHeight=30;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="450" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="qpySperJO2lBBYieVJm1-2" value="Batch processing Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="140" as="geometry" />
+        </mxCell>
+        <mxCell id="qpySperJO2lBBYieVJm1-3" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=90;tabHeight=30;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="70" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qpySperJO2lBBYieVJm1-4" value="Client&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qpySperJO2lBBYieVJm1-5" value="UI" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qpySperJO2lBBYieVJm1-6" value="Batch Job coordinator" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=75;tabHeight=20;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="290" width="155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qpySperJO2lBBYieVJm1-7" value="&amp;lt;&amp;lt;Module&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qpySperJO2lBBYieVJm1-8" value="Job Steps" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=76;tabHeight=20;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="290" width="146" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qpySperJO2lBBYieVJm1-9" value="&amp;lt;&amp;lt;Module&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="290" width="76" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
